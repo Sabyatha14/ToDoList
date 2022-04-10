@@ -1,0 +1,5 @@
+for changes made
+git status
+git add .
+git commit -m "Cheatsheet added"
+git push origin master
